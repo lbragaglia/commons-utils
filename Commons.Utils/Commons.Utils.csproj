@@ -5,6 +5,9 @@
     <PackageId>Commons.Utils</PackageId>
     <Version>0.0.1</Version>
     <Authors>lbragaglia</Authors>
+    <Title>Common extensions and utilities</Title>
+    <Description>AggregateException, IDisposable and ObjectCache extensions</Description>
+    <RepositoryUrl>https://github.com/lbragaglia/commons-utils</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

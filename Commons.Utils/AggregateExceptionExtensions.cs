@@ -5,6 +5,8 @@ namespace Commons.Utils
     //Example usage:
     //_connection.FailsafeDispose().Handle<ItemInfoChangedValidationException>(ex => Console.WriteLine(ex));
     //[...]
+
+    //TODO add chaining, rethrow
     public static class AggregateExceptionExtensions
     {
         public static void Handle<T>(this AggregateException aex, Func<T, bool> predicate) where T : Exception => aex?.Handle(WithTypeSafe(predicate));

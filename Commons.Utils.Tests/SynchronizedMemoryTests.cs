@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Commons.Utils.Cache;
 using NUnit.Framework;
 
-namespace Common.Utils.Tests
+namespace Commons.Utils.Tests
 {
     [TestFixture]
     public class SynchronizedMemoryTests

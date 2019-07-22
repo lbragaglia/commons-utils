@@ -4,7 +4,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Commons.Utils", "Commons.Utils\Commons.Utils.csproj", "{A1DE4B20-8659-4634-9EC7-1082B3592057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Utils.Tests", "Common.Utils.Tests\Common.Utils.Tests\Common.Utils.Tests.csproj", "{207580A2-76F5-448F-8F62-03BB04681172}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons.Utils.Tests", "Commons.Utils.Tests\Commons.Utils.Tests.csproj", "{207580A2-76F5-448F-8F62-03BB04681172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

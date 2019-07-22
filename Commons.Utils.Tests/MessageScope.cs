@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using Commons.Utils.Cache;
 
-namespace Common.Utils.Tests
+namespace Commons.Utils.Tests
 {
     public class MessageScope : IScopeProvider, IScopeFactory
     {
